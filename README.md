@@ -11,3 +11,6 @@ In this project, we focus on analyzing narrowband and frequency-selective channe
 In the first section, we work with a narrowband channel and investigate the performance of conventional BPSK, binary, and QPSK transmission methods. We also attempt to mitigate the channel's effects at the receiver and improve signal estimation. Towards the end of this section, we delve into time diversity and the Alamouti method, which significantly enhance system performance.
 
 Moving on to the next section, we delve into a frequency-selective channel. Here, we utilize the Orthogonal Frequency Division Multiplexing (OFDM) technique for data transmission. First, we thoroughly model the problem and then proceed with system simulation. We employ various methods, including Waterfilling, MRC, and Equalization, to achieve better performance. Additionally, we introduce clipping to simulate real-world systems, ultimately identifying the best system and its performance.
+
+## Paper Presentation
+Investigate and present a practical paper in wireless communication called "Federated Learning via Over-the-Air Computation" for a better understanding.
